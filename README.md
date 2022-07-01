@@ -1,4 +1,4 @@
-### Hi there im Ivan [Checkout my web portolio!][website]👋
+### Hi there im Ivan 👋 | [Checkout my web portolio!][website]
 
 - 🔭 I’m currently working on a social media app for friend groups
 - 🌱 I’m currently learning React with Styled Components
