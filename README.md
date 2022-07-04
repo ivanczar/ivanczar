@@ -7,8 +7,8 @@
 - ⚡ 2 Truths 1 Lie: I play guitar, I can speak Spanish & English fluently, I have a pet monkey
 
 ### Connect with me:
-[![website](./img/globe-light.svg)](http://ivanczar.codes#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](http://ivanczar.github.io#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](http://ivanczar.github.io)
+[![website](./img/globe-dark.svg)](http://ivanczar.github.io)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ivanczar#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ivanczar#gh-dark-mode-only)
