@@ -8,7 +8,6 @@
 
 ### Connect with me:
 [![website](./img/globe-light.svg)](http://ivanczar.github.io)
-[![website](./img/globe-dark.svg)](http://ivanczar.github.io)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ivanczar#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ivanczar#gh-dark-mode-only)
