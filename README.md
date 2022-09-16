@@ -1,7 +1,7 @@
 ### Hi there im Ivan 👋 | [Checkout my new web portolio!][website]
 
-- 🔭 I’m currently working on a social media app for friend groups
-- 🌱 I’m currently learning React with Styled Components
+- 🔭 I’m currently making a homelab with a RaspberryPi thats uses docker containers to host services such as a Nodejs server, PostgreSQL database, DNS server, and a network-wide adblocker.
+- 🌱 I’m currently learning Docker and Nodejs
 - 👯 2022 Goal: Contribute to my first open source project
 - 🤔 I’m looking for help with finding internships
 - ⚡ 2 Truths 1 Lie: I play guitar, I can speak Spanish & English fluently, I have a pet monkey
