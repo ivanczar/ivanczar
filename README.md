@@ -1,4 +1,4 @@
-### Hi there im Ivan 👋 | [Checkout my new web portolio!][website]
+### Hi there im Ivan 👋 | [Checkout my web portolio!][website]
 
 - 🔭 I’m currently making a homelab with a RaspberryPi thats uses docker containers to host services such as a Nodejs server, PostgreSQL database, DNS server, and a network-wide adblocker.
 - 🌱 I’m currently learning Docker and Nodejs
