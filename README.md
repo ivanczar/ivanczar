@@ -1,13 +1,15 @@
 ### Hi there im Ivan 👋 | [Checkout my web portolio!][website]
 
-- 🔭 I’m currently making a homelab with a RaspberryPi thats uses docker containers to host services such as a Nodejs server, PostgreSQL database, DNS server, and a network-wide adblocker.
-- 🌱 I’m currently learning Docker and Nodejs
-- 👯 2022 Goal: Contribute to my first open source project
-- 🤔 I’m looking for help with finding internships
+- 🔭 I'm a Full Stack developer with industry experience building
+            websites and web applications. I specialize in JavaScript and have
+            experience working with Java and Python. I also has experience
+            working with React and Nodejs.
+- 🌱 I’m currently learning GraphQL and AWS 
+- 👯 2023 Goal: Contribute to my first open source project
 - ⚡ 2 Truths 1 Lie: I play guitar, I can speak Spanish & English fluently, I have a pet monkey
 
 ### Connect with me:
-[![website](./img/globe-dark.svg)](http://ivanczar.github.io)
+[![website](./img/globe-dark.svg)](https://www.ivanczar.codes)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ivanczar#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ivanczar#gh-dark-mode-only)
