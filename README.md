@@ -8,7 +8,7 @@ I'm is a highly motivated and organized team player with a growth mindset and ex
 - ⚡ 2 Truths 1 Lie: I play guitar, I can speak Spanish & English fluently, I have a pet monkey
 
 ### Connect with me:
-[![website](./img/globe-dark.svg)](https://www.ivanczar.codes)
+[![website](./img/globe-dark.svg)](https://www.ivanczar.github.io)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ivanczar#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ivanczar#gh-dark-mode-only)
