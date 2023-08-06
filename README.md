@@ -1,9 +1,9 @@
 ### Hi there im Ivan 👋 | [Checkout my web portolio!][website]
 
-- 🔭 I'm a Full Stack developer with industry experience building web applications in an agile environment. I specialize in TypeScript but also have experience working with Java and Python. 
+- 🔭 I'm a Full Stack developer (with a lean towards backend) with industry experience building web applications in an agile environment. I specialize in TypeScript but also have experience working with Java and Python. 
 
-I'm is a highly motivated and organized team player with a growth mindset and exposure to many different cultures. In my free time, I enjoy learning about IoT, camping, and shredding on guitar. 
-- 🌱 I’m currently learning GraphQL and AWS 
+I'm a highly motivated and organized team player with a growth mindset and exposure to many different cultures. In my free time, I enjoy learning about IoT, camping, and shredding on guitar. 
+- 🌱 I’m currently learning computer vision with Python, OpenCV, and dlib. 
 - 👯 2023 Goal: Contribute to my first open source project
 - ⚡ 2 Truths 1 Lie: I play guitar, I can speak Spanish & English fluently, I have a pet monkey
 
