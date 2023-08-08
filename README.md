@@ -1,9 +1,3 @@
-<div id="header" align="center">
-<img align="center" alt="GIF" height="300px" src="https://github.com/ivanczar/ivanczar/blob/main/giphyy.gif" />
-</div>
-
-
-
 
 <h1 align="center">
   Hi, i'm Ivan
