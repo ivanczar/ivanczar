@@ -10,7 +10,7 @@
 </div>
 
 <h1 align="center">
-  Hi, i'm Ivan
+  Hi, im Ivan
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <br/>
