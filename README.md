@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img align="center" alt="GIF" height="300px" src="https://github.com/ivanczar/ivanczar/blob/main/giphy.gif" />
+<img align="center" alt="GIF" height="300px" src="https://github.com/ivanczar/ivanczar/blob/main/giphyy.gif" />
 </div>
 
 
@@ -10,7 +10,7 @@
 </div>
 
 <h1 align="center">
-  Hi, im Ivan
+  Hi, i'm Ivan
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <br/>
