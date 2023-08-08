@@ -3,18 +3,19 @@
 </div>
 
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/ivanczar/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+
 
 <h1 align="center">
   Hi, i'm Ivan
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <br/>
-
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/ivanczar/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+<br/>
 
 I'm a Full Stack developer (with a lean towards backend) with industry experience building web applications in an agile environment. I specialize in TypeScript but also have experience working with Java and Python. 
 
