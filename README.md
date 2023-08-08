@@ -40,5 +40,5 @@ I'm a highly motivated and organized team player with a growth mindset and expos
 <hr>
 <br/>
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ivanczar&hide=issues&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true&count_private=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ivanczar&hide=stars,issues&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true&count_private=true" />
 </p>
