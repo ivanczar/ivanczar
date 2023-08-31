@@ -21,6 +21,7 @@ I'm a highly motivated and organized team player with a growth mindset and expos
 
 <br/>
 <div>
+  <img src="https://skillicons.dev/icons?i=ts,java,py,react,nextjs,nodejs,mongodb,mysql,docker,bash,git,figma" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
