@@ -22,7 +22,7 @@
 <h3>Tech i use</h3>
 
 
-  <img src="https://skillicons.dev/icons?i=ts,java,py,nextjs,nodejs,mongodb,mysql,docker,bash,git,figma" />
+  <img src="https://skillicons.dev/icons?i=ts,java,py,nextjs,nodejs,mongodb,mysql,docker,linux,bash,git,figma" />
 
 <hr>
 <br/>
