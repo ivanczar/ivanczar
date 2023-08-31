@@ -21,7 +21,7 @@ I'm a highly motivated and organized team player with a growth mindset and expos
 
 <br/>
 <div>
-  <img src="https://skillicons.dev/icons?i=ts,java,py,react,nextjs,nodejs,mongodb,mysql,docker,bash,git,figma" />
+  <img src="https://skillicons.dev/icons?i=ts,java,py,nextjs,nodejs,mongodb,mysql,docker,bash,git,figma" />
 </div>
 <hr>
 <br/>
