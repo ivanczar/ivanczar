@@ -13,14 +13,14 @@
 
 I'm a Full Stack developer (with a lean towards backend) with industry experience building web applications in an agile environment. I specialize in TypeScript but also have experience working with Java and Python. I take pride in writing scaleable and maintaineable code by implementing appropriate architectural patterns and following best practices.
 
-I'm a highly motivated and organized team player with a growth mindset and exposure to many different cultures. I enjoy keeping up-to-date with the latest tech, tinkering with my homelab, spending time in the outdoors, and shredding on guitar. 
+I'm a highly motivated and organized team player with a growth mindset and exposure to many different cultures. I enjoy keeping up-to-date with and trying out the latest tech, tinkering with my homelab, spending time in the outdoors, and shredding on guitar. 
 
 <br/>
 
 ## Tech i use:
 
 <br/>
-<div>
+<div align="center">
   <img src="https://skillicons.dev/icons?i=ts,java,py,nextjs,nodejs,mongodb,mysql,docker,bash,git,figma" />
 </div>
 <hr>
