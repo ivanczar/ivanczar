@@ -13,7 +13,7 @@
 <br/>
 <br/>
 <p>
-  I'm a Full Stack developer (with a lean towards backend) with industry experience building web applications in an agile environment. I specialize in TypeScript but also have experience working with Java and Python. I take pride in writing scaleable and maintaineable code by implementing appropriate architectural patterns and following best practices.
+  I'm a Full Stack developer (with a preference for backend) with industry experience building web apps in an agile environment. I specialize in TypeScript but also have experience working with PHP, Java, and Python. I take pride in writing scaleable and maintaineable code by implementing appropriate architectural patterns and following best practices.
 </p>
 
 
@@ -22,7 +22,7 @@
 <h3>Tech i use</h3>
 
 
-  <img src="https://skillicons.dev/icons?i=ts,java,py,nextjs,nodejs,mongodb,mysql,docker,linux,bash,git,figma" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,laravel,java,py,nextjs,mongodb,mysql,docker,raspberrypi,figma" />
 
 <hr>
 <br/>
